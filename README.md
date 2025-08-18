@@ -8,14 +8,14 @@
 ![Last Commit](https://img.shields.io/github/last-commit/daidensacha/Portfolio-Daiden-Sacha)
 ![Issues](https://img.shields.io/github/issues/daidensacha/Portfolio-Daiden-Sacha)
 
-A lightweight, responsive personal site showcasing projects, skills, and contact info.  
+A lightweight, responsive personal site showcasing projects, skills, and contact info.
 Built with semantic HTML, modern CSS/Sass, a sprinkle of JS, and UIkit components.
 
 ---
 
 ## 🔎 Overview
 
-This portfolio highlights my recent work (MERN + frontend projects), a short bio, and ways to get in touch.  
+This portfolio highlights my recent work (MERN + frontend projects), a short bio, and ways to get in touch.
 It’s intentionally simple and fast to load, with clear sections and mobile-first layout.
 
 ---
@@ -32,9 +32,9 @@ It’s intentionally simple and fast to load, with clear sections and mobile-fir
 
 ## 🧰 Tech Stack
 
-- **HTML5** semantic markup  
-- **CSS3 / Sass** for styling and variables  
-- **JavaScript (ES6)** for small interactions  
+- **HTML5** semantic markup
+- **CSS3 / Sass** for styling and variables
+- **JavaScript (ES6)** for small interactions
 - **UIkit** for utility classes & components
 
 ---
@@ -47,14 +47,12 @@ It’s intentionally simple and fast to load, with clear sections and mobile-fir
 
 ## 📸 Screenshots
 
-> Put images in `docs/screenshots/` and reference them here.
-
-- **Home / Intro**  
+- **Home / Intro**
   `![Home](docs/screenshots/home.jpg)`
-- **Projects**  
-  `![Projects](docs/screenshots/projects.jpg)`
-- **Contact**  
-  `![Contact](docs/screenshots/contact.jpg)`
+- **About**
+  `![Projects](docs/screenshots/about.jpg)`
+- **Skills**
+  `![Projects](docs/screenshots/skills.jpg)`
 
 ---
 
@@ -64,19 +62,18 @@ It’s intentionally simple and fast to load, with clear sections and mobile-fir
 .
 ├─ index.html
 ├─ css/
-│  ├─ main.css
-│  └─ main.css.map
+│  ├─ style.css
+│  ├─ style.css.map
+│  └─ uikit.min.css
 ├─ sass/
 │  ├─ _variables.scss
-│  ├─ _layout.scss
-│  └─ main.scss
+│  └─ style.scss
 ├─ js/
-│  └─ main.js
+│  ├─ uikit-icons.min.js
+│  └─ uikit.min.js
 └─ docs/
-   └─ screenshots/   (add images here)
+   └─ screenshots/
 ```
-
-> Folder names can differ from your repo — adjust as needed.
 
 ---
 
@@ -103,29 +100,19 @@ python3 -m http.server 5173
 
 ---
 
-## 🧭 Content To‑Do (nice‑to‑haves)
-
-- Add short “About” with a friendly photo
-- Highlight 3–6 projects with concise one‑liners + badges
-- Include a CV/Resume download link (PDF)
-- Add a small “Now/Currently” blurb (what you’re building/learning)
-
----
-
 ## 🧪 Lighthouse Targets
 
-- Performance ≥ 90  
-- Accessibility ≥ 95  
-- Best Practices ≥ 95  
+- Performance ≥ 90
+- Accessibility ≥ 95
+- Best Practices ≥ 95
 - SEO ≥ 90
 
 ---
 
 ## 📬 Contact
 
-- **GitHub:** https://github.com/daidensacha  
-- **LinkedIn:** https://www.linkedin.com/in/daidensacha  
-- **Email:** _add your preferred address_
+- **GitHub:** https://github.com/daidensacha
+- **LinkedIn:** https://www.linkedin.com/in/daidensacha
 
 ---
 
