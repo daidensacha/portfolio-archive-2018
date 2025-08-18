@@ -41,8 +41,7 @@ It’s intentionally simple and fast to load, with clear sections and mobile-fir
 
 ## 🚀 Live Demo
 
-> _(Add your deployed URL when ready)_  
-> Example: `https://daidensacha.com` or GitHub Pages
+> _[See portfolio here](https://daidensacha.github.io/Portfolio-Daiden-Sacha/)
 
 ---
 
