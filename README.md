@@ -48,9 +48,12 @@ It’s intentionally simple and fast to load, with clear sections and mobile-fir
 ## 📸 Screenshots
 
 - **Home / Intro**
+
   ![Home](docs/screenshots/home.jpg)
+
 - **About**
   ![Projects](docs/screenshots/about.jpg)
+
 - **Skills**
   ![Projects](docs/screenshots/skills.jpg)
 
