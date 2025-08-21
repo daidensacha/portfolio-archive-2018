@@ -41,7 +41,7 @@ It’s intentionally simple and fast to load, with clear sections and mobile-fir
 
 ## 🚀 Live Demo
 
-- [See portfolio here](https://daidensacha.github.io/Portfolio-Daiden-Sacha/)
+- [See portfolio here](https://daidensacha.github.io/portfolio-archive-2018/)
 
 ---
 
